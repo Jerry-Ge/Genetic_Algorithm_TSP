@@ -1,10 +1,4 @@
 # ITP 435 PA2 - Fall 2018 #
 
-### EDIT BELOW ###
-Name: Yuzhou Ge
-
-Email: yuzhouge@usc.edu
-
-Section: M/W
-
-Platform: PC
+A genetic algorithm for determining the best tour of the landmarks
+in LA, starting and ending at LAX.
